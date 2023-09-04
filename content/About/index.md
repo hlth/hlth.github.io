@@ -15,7 +15,7 @@ draft: false
 ---
 I've spent 30+ years on the internet, ending up in Silicon Valley in 2012. With a background in Computer Science and Operations Research, I landed in internet marketing attracted by the combo of architecting systems and driving quantifiable growth. 
 
-This led to me working at best in class companies like [Facebook](https://www.facebook.com) and [LinkedIn](https://www.linkedin.com), and smaller startups like [ArrowStream](https://www.arrowstream.com), [Fivestars](https://www.fivestars.com), [Plaid](https://www.plaid.com) and my own (iSyndica and chief.io) doing primarely Growth & Analytics under various names (Demand Generation, Performance Marketing, Growth, Product Analytics etc.) and invariably Product work.
+This led to me working at best in class companies like [Facebook](https://www.facebook.com) and [LinkedIn](https://www.linkedin.com), and smaller startups like [ArrowStream](https://www.arrowstream.com), [Fivestars](https://www.fivestars.com), [Plaid](https://www.plaid.com) and my own (iSyndica and chief.io) doing primarily Growth & Analytics under various names (Demand Generation, Performance Marketing, Growth, Product Analytics etc.) and invariably Product work.
 
 ### Recent interests include Machine Learning, Piano and Human Functioning
 
