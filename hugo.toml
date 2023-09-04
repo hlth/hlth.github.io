@@ -1,5 +1,22 @@
 baseURL = 'https://hlth.github.io/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+googleAnalytics = "G-VSB6CMVPCB"
+title = 'Evaluate. Iterate. Grow - Hugo '
 theme = "paper"
 
+twitter = 'hlth'               # twitter.com/YOUR_TWITTER_ID
+github = 'hlth'                # github.com/YOUR_GITHUB_ID
+linkedin = 'hugoangelmar'      # linkedin.com/in/YOUR_LINKEDIN_ID
+rss = true                     # show rss icon
+
+# home page profile
+avatar = 'https://avatars.githubusercontent.com/u/2481287'  # gravatar email or image url
+name = 'Hugo Angelmar'
+bio = 'my bio'
+
+
+# misc
+disableHLJS = false                       # disable highlight.js
+disablePostNavigation = false             # disable post navigation
+monoDarkIcon = true                       # show monochrome dark mode icon
+math = true                               # enable KaTeX math typesetting globally
