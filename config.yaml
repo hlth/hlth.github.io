@@ -29,9 +29,9 @@ math: true                               # enable KaTeX math typesetting globall
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  title: 'Evaluate. Iterate. Grow - Hugo'
-  description: "ExampleSite description"
-  keywords: [Blog, Portfolio, PaperMod]
+  title: 'Mind & Market - Hugo Angelmar'
+  description: "Professional & personal experiences, insights and stories captured from two decades in tech."
+  keywords: [Blog, Portfolio, Tech, Venture, SaaS, Growth]
   author: Me
 
   # author: ["Me", "You"] # multiple authors
@@ -58,7 +58,7 @@ params:
 
 
   label:
-    text: "Hugo Angelmar"
+    text: "Mind & Market"
     icon: "images/home_icon4.png"
     iconHeight: 35
 
