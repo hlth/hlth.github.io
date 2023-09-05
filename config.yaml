@@ -1,5 +1,5 @@
 baseURL: 'https://hlth.github.io/'
-title: 'Evaluate. Iterate. Grow. | Hugo Angelmar'
+title: 'Mind & Market | Hugo Angelmar'
 paginate: 5
 languageCode: 'en-us'
 theme: "PaperMod"
@@ -65,9 +65,9 @@ params:
 
  # profile-mode
   profileMode:
-    enabled: true # needs to be explicitly set
+    enabled: true  # needs to be explicitly set
     title: Hugo Angelmar
-    subtitle: "Efficiency, Transparency and Fairness. These are the three words that guide how I try to change the world."
+    subtitle: "Professional & personal experiences, insights and stories captured from two decades in tech."
     imageUrl: "images/hlth_icon.png"
     imageWidth: 120
     imageHeight: 120
@@ -75,13 +75,13 @@ params:
     buttons:
       - name: Posts
         url: posts
-      - name: Projects
-        url: Projects
+      - name: About
+        url: about
 
   # home-info mode
   homeInfoParams:
-    Title: "Hello"
-    Content: Efficiency, Transparency and Fairness. These are the three words that guide how I try to change the world.
+    Title: "Mind & Market"
+    Content: Professional & personal experiences, insights and imaginary stories captured from two decades in tech. 
   socialIcons:
   - name: linkedin
     url: "https://www.linkedin.com/in/hugoangelmar"
@@ -119,11 +119,13 @@ menu:
       name: About
       url: /about/
       weight: 2
-    - identifier: blog
-      name: Blogs
-      url: /blogs/
-      weight: 2
-    - identifier: projects
-      name: Projects
-      url: /projects/
+    - identifier: posts
+      name: Posts
+      url: /posts/
       weight: 1
+
+outputs:
+    home:
+        - HTML
+        - RSS
+        - JSON # is necessary

@@ -34,6 +34,7 @@ Becoming a parent makes you marvel at life, as does the invariable process of ag
 
 ### Personal Ventures:
 - [**salamander.vc**](https://www.salamander.vc/) Seed stage investments
+- [**Chess Puzzle Blitz**](https://appadvice.com/app/chess-puzzle-blitz/1481795247) Competitive Chess Puzzle Mobile Game *(shutdown)*
 - [**chief.io**](https://www.chief.io) A Marketplace for B2B Software Buyers *(shutdown)*
     - [Connecting enterprise software users with chief.io](https://medium.com/@hlth/connecting-enterprise-software-users-with-chief-io-57ef7c389fc8)
 - [**iSyndica**](https://www.techinasia.com/isyndica-the-cloud-based-digital-media-platform) A Digital syndication platform for stock photographers *(shutdown)*
