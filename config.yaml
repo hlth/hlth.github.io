@@ -32,7 +32,7 @@ params:
   title: 'Mind & Market - Hugo Angelmar'
   description: "Professional & personal experiences, insights and stories captured from two decades in tech."
   keywords: [Blog, Portfolio, Tech, Venture, SaaS, Growth]
-  author: Me
+  author: Hugo Angelmar
 
   # author: ["Me", "You"] # multiple authors
   images: ["<link or path of image for opengraph, twitter-cards>"]
